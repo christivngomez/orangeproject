@@ -1,0 +1,136 @@
+*{
+	padding: 0;
+	margin:0;
+	outline: none;
+}
+
+div.navbar {
+	background-color: darkorange;
+	height: 100px;
+}
+
+img {
+	height: 100px;
+	width: 80px;
+	float: left;
+}
+
+h1 {
+	display: inline-block;
+	float: left;
+	margin-top: 20px;
+	margin-left: -18px;
+	color: white;
+	font-family: 'Muli' , sans-serif;
+}
+
+.navbar h1 span {
+	font-weight: lighter;
+}
+
+ul {
+	float: right;
+}
+
+li {
+	display: inline-block;
+	margin-top: 40px;
+	margin-right: 50px;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Muli' , sans-serif;
+	font-weight: bold;
+	color: white;
+}
+
+input {
+	float: right;
+	margin-right: 50px;
+	background-color: silver;
+	border: none;
+	height: 50px;
+	width: 230px;
+	margin-top: 3px;
+	padding-left: 20px;
+}
+
+.oranges img {
+	height: 450px;
+	width: 40%;
+	margin-top: 100px;
+	margin-left: 30px;
+}
+
+div.bih {
+	float: right;
+	color: orange;
+	margin-top: 100px;
+	margin-right: 90px;
+	width: 50%;
+	font-size: 44px;
+	font-weight: lighter;
+}
+
+span.wtf {
+	font-weight: bolder;
+	color: darkorange;
+}
+
+span.web {
+	color: darkcyan;
+	font-weight: bolder;
+}
+
+span.app {
+	color: darkcyan;
+	font-weight: bolder;
+}
+
+p {
+	padding-bottom: 25px;
+}
+
+button.one {
+	background-color: darkorange;
+	color: white;
+	border: none;
+	width: 250px;
+	padding: 20px 60px;
+	font-size: 16px;
+	margin-left: 5px;
+}
+
+button.two {
+	background-color: darkcyan;
+	color: white;
+	border: none;
+	width: 260px;
+	padding: 20px 60px;
+	margin-left: 50px;
+	font-size: 14px;
+}
+
+.footer {
+	background-color: darkcyan;
+	width: 100%;
+	height: 100px;
+	margin-top: 550px;
+	position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
